@@ -1,0 +1,36 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+
+  background-color:hotpink;
+ 
+}
+p {
+  font-size:2em;
+  width: 50%;
+  margin: 5%;
+  border-width: 1;
+  border-color: lightpink;
+  color: lightpink;
+
+}
+h1 {
+  margin-top: 5.5em;
+  margin-left:.5em;
+  font-style: italic;
+  color: lightpink;
+    font-size:3em;
+
+}
+
+body {
+  background-image: url("https://media.giphy.com/media/26xBP9bO4ITEnVrlm/giphy.gif");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+
+
+}
+
+
